@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sudasf/Miss/issues"
   },
-  "homepage": "https://github.com/sudasf/Miss#readme"
+  "homepage": "https://github.com/sudasf/Miss#readme",
+  "dependencies": {
+    "connect": "^3.4.1"
+  }
 }
