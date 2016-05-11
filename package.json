@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sudasf/Miss#readme",
   "dependencies": {
-    "connect": "^3.4.1"
+    "connect": "^3.4.1",
+    "express": "^4.13.4"
   }
 }
