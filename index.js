@@ -4,3 +4,4 @@ var server=http.createServer(function(req,res){
 	res.end('这是孙峰的阿里云服务器 shabi')
 })
 server.listen(3000)
+
